@@ -1,0 +1,6 @@
+# HashForge - Zero Dependencies!
+# All functionality uses Python standard library only
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
